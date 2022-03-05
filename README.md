@@ -1,0 +1,2 @@
+# Automated-EDA-and-ML-Modelling
+Linking of OPEN AI to create Granular Prompts: - This approach Includes Trial and Testing of Different Models and optimizing different features available on Open AI to link it to our Working Space using the API. Once the linking Process has been done, we can use type out the things we want to perform on our Dataset and can output it into the write file where code related the same gets generated. We have effectively tried it on different datasets and have obtained the desired results.
